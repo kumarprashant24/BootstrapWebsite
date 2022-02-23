@@ -475,6 +475,10 @@ color: white;
      display: flex;
      justify-content: center;
  }
+ .special{
+    width: 100%;
+}
+ 
 
 
  
